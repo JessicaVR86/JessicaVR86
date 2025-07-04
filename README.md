@@ -10,9 +10,7 @@ Me llamo Jessica y estudié en Adalab el curso de desarrollo web, ahora empezar�
 - 💻 He aprendido **HTML**, **CSS**, **JavaScript**, **ReactJS**, **NodeJS**, **Express**, **MySQL**, **Workbench** and **JWT**.
 
 ## Contacto ☎️ 
- [Linkedin]("www.linkedin.com/in/jessica-v-277205356
-
-")
+ [Linkedin](https://www.linkedin.com/in/jessica-v-277205356/)
 
 ## Status 📊 
 <p>
