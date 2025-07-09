@@ -11,6 +11,12 @@ Me llamo Jessica y estudié en Adalab el curso de desarrollo web, ahora empezar�
 - 👀 Estoy buscando colaborar en cualquier proyecto que se alinee con mis intereses y experiencia.
 - 💻 He aprendido **HTML**, **CSS**, **JavaScript**, **ReactJS**, **NodeJS**, **Express**, **MySQL**, **Workbench** and **JWT**.
 
+## Mira mi Porfolio 😉
+
+[PORTFOLIO]  (https://jessicavr86.github.io/portfolio_JessicaVR/)
+
+
+
 ### Contacto ☎️
 
 [Linkedin](https://www.linkedin.com/in/jessica-v-277205356/)
