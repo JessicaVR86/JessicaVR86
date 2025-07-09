@@ -13,7 +13,7 @@ Me llamo Jessica y estudié en Adalab el curso de desarrollo web, ahora empezar�
 
 ## Mira mi Porfolio 😉
 
-[PORTFOLIO]  (https://jessicavr86.github.io/portfolio_JessicaVR/)
+[PORTFOLIO](https://jessicavr86.github.io/portfolio_JessicaVR/)
 
 
 
