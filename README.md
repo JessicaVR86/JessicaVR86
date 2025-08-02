@@ -1,7 +1,7 @@
 ### Hello World 👋
 
 Bienvendos a mi pequeño espacio,
-Me llamo Jessica y estudié en Adalab el curso de desarrollo web, ahora empezaré a practicar, practicar y más practicar, el esfuerzo constante genera crecimiento.
+Me llamo Jessica y estudié en Adalab el curso de desarrollo web, ahora empezaré a practicar porque el esfuerzo constante genera crecimiento.
 <b> 🔥 Esto solo acaba de empezar...</b>
 
 ### Sobre mi
